@@ -1,0 +1,11 @@
+https://admin.pubnub.com/#/user/268703/app/280498
+
+
+App Name pnChat
+Key Name Free
+Tier Free
+Publish Key pub-c-a3632d67-69f2-40bb-ab5d-492aab22f456
+Subscribe Key sub-c-1b45966e-c345-11e5-8a35-0619f8945a4f
+Secret Key sec-c-YzU2MmYyOWEtM2IzMC00ODk2LThlN2UtN2VkMTA3MjJhNWIx
+Key Status Enabled 
+App Status Enabled 
