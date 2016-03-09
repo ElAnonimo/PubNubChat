@@ -1,4 +1,4 @@
-image:https://github.com/pubnub/angular-js/raw/master/pubnub.png
+![alt tag](https://github.com/pubnub/angular-js/raw/master/pubnub.png)
 
 Welcome! We're here to get you started with AngularJS and PubNub.
 
