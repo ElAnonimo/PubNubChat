@@ -1,12 +1,22 @@
-# pn-chat
+image:https://github.com/pubnub/angular-js/raw/master/pubnub.png
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
+Welcome! We're here to get you started with AngularJS and PubNub.
 
-## Build & development
+# Описание
+Сервер для обмена сообщениями между пользователями в реальном времени. Пользователи могут создавать комнаты, сообщения в них, принимать участие в чатах в комнатах других пользователей, осуществляется проверка уникальности пользователя.
 
-Run `grunt` for building and `grunt serve` for preview.
+### Технологии
+* CSS
+* Bootstrap
+* PubNub Angular-JS API
+* Yeoman
+* Bower
+* Grunt
 
-## Testing
+### Установка модулей
+`npm install`
 
-Running `grunt test` will run the unit tests with karma.
+### Запуск приложения
+`grunt serve`
+
+Приложение будет доступно по адресу `http://localhost:9000`
