@@ -14,7 +14,11 @@ Welcome! We're here to get you started with AngularJS and PubNub
 * Grunt
 
 ### Установка модулей
-`npm install`
+`npm install -g yo bower grunt-cli`
+
+`npm install -g generator-angular`
+
+`yo` в папке приложения. Выберите Angular генератор, затем укажите No в ответ на запрос использования SASS, согласитесь на включение Bootstrap в структуру приложения, выберите все компоненты Angular, согласитесь на перезапись package.json
 
 ### Запуск приложения
 `grunt serve`
